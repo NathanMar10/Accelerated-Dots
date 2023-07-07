@@ -1,0 +1,7 @@
+_accelerated-dots.c
+_backend-functions.c
+setup.py
+AcceleratedDots.egg-info/PKG-INFO
+AcceleratedDots.egg-info/SOURCES.txt
+AcceleratedDots.egg-info/dependency_links.txt
+AcceleratedDots.egg-info/top_level.txt
